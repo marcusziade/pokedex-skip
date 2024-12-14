@@ -1,5 +1,11 @@
 # Pokedex
 
+
+
+https://github.com/user-attachments/assets/1919b9d7-b76f-47a4-a01a-66c6bf88b902
+
+
+
 This is a [Skip](https://skip.tools) dual-platform app project.
 It builds a native app for both iOS and Android.
 
